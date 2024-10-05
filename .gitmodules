@@ -1,0 +1,3 @@
+[submodule "Assets/3rd Party/Capricorn"]
+	path = Assets/3rd Party/Capricorn
+	url = git@github.com:dunward/Capricorn.git
